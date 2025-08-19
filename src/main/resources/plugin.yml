@@ -1,0 +1,8 @@
+name: combat-tag
+version: '${version}'
+main: dev.scopped.combattag.CombatTagBootstrap
+author: Scopped_
+depend: [ PlaceholderAPI ]
+commands:
+  combatreload:
+    permission: combat.admin

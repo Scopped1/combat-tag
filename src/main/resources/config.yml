@@ -1,0 +1,12 @@
+settings:
+  combat_time: 15
+  allowed_commands:
+    - /msg
+
+messages:
+  exit_combat: "&aSei uscito dal combattimento!"
+  enter_combat: "&cSei entrato in combattimento!"
+  action_bar: "&fCombat: &c{time}s"
+  cant_execute_command: "&cNon puoi eseguire questo comando in combattimento!"
+  quit_player_death: "&c{player} è uscito mentre era in combattimento!"
+  config_reloaded: "&aConfig reloaded!"
